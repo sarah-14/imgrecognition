@@ -1,0 +1,22 @@
+ body
+ {
+    background-color: palegreen;
+ }
+
+ .name_of_objects
+ {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ #webv
+ {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ .heading
+ {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+ }
